@@ -2,5 +2,5 @@
 
 #note
 
-Ideas are taken from following blog
+Systemd service creation ideas are taken from following blog
 https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6
